@@ -1,2 +1,2 @@
-# Dice-Game
-For Fun 
+# DiceGame
+Some fun
